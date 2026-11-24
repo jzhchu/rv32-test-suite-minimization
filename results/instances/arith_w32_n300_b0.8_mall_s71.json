@@ -1,0 +1,2131 @@
+{
+  "tests": [
+    {
+      "id": 0,
+      "op": "add",
+      "a": 0,
+      "b": 1
+    },
+    {
+      "id": 1,
+      "op": "sub",
+      "a": 0,
+      "b": 1
+    },
+    {
+      "id": 2,
+      "op": "mul",
+      "a": 0,
+      "b": 1
+    },
+    {
+      "id": 3,
+      "op": "and",
+      "a": 0,
+      "b": 1
+    },
+    {
+      "id": 4,
+      "op": "xor",
+      "a": 0,
+      "b": 1
+    },
+    {
+      "id": 5,
+      "op": "shl",
+      "a": 0,
+      "b": 1
+    },
+    {
+      "id": 6,
+      "op": "lsr",
+      "a": 0,
+      "b": 1
+    },
+    {
+      "id": 7,
+      "op": "asr",
+      "a": 0,
+      "b": 1
+    },
+    {
+      "id": 8,
+      "op": "ltu",
+      "a": 0,
+      "b": 1
+    },
+    {
+      "id": 9,
+      "op": "lts",
+      "a": 0,
+      "b": 1
+    },
+    {
+      "id": 10,
+      "op": "add",
+      "a": 1,
+      "b": 0
+    },
+    {
+      "id": 11,
+      "op": "sub",
+      "a": 1,
+      "b": 0
+    },
+    {
+      "id": 12,
+      "op": "mul",
+      "a": 1,
+      "b": 0
+    },
+    {
+      "id": 13,
+      "op": "and",
+      "a": 1,
+      "b": 0
+    },
+    {
+      "id": 14,
+      "op": "xor",
+      "a": 1,
+      "b": 0
+    },
+    {
+      "id": 15,
+      "op": "shl",
+      "a": 1,
+      "b": 0
+    },
+    {
+      "id": 16,
+      "op": "lsr",
+      "a": 1,
+      "b": 0
+    },
+    {
+      "id": 17,
+      "op": "asr",
+      "a": 1,
+      "b": 0
+    },
+    {
+      "id": 18,
+      "op": "ltu",
+      "a": 1,
+      "b": 0
+    },
+    {
+      "id": 19,
+      "op": "lts",
+      "a": 1,
+      "b": 0
+    },
+    {
+      "id": 20,
+      "op": "add",
+      "a": 1,
+      "b": 1
+    },
+    {
+      "id": 21,
+      "op": "sub",
+      "a": 1,
+      "b": 1
+    },
+    {
+      "id": 22,
+      "op": "mul",
+      "a": 1,
+      "b": 1
+    },
+    {
+      "id": 23,
+      "op": "and",
+      "a": 1,
+      "b": 1
+    },
+    {
+      "id": 24,
+      "op": "xor",
+      "a": 1,
+      "b": 1
+    },
+    {
+      "id": 25,
+      "op": "shl",
+      "a": 1,
+      "b": 1
+    },
+    {
+      "id": 26,
+      "op": "lsr",
+      "a": 1,
+      "b": 1
+    },
+    {
+      "id": 27,
+      "op": "asr",
+      "a": 1,
+      "b": 1
+    },
+    {
+      "id": 28,
+      "op": "ltu",
+      "a": 1,
+      "b": 1
+    },
+    {
+      "id": 29,
+      "op": "lts",
+      "a": 1,
+      "b": 1
+    },
+    {
+      "id": 30,
+      "op": "add",
+      "a": 4294967295,
+      "b": 1
+    },
+    {
+      "id": 31,
+      "op": "sub",
+      "a": 4294967295,
+      "b": 1
+    },
+    {
+      "id": 32,
+      "op": "mul",
+      "a": 4294967295,
+      "b": 1
+    },
+    {
+      "id": 33,
+      "op": "and",
+      "a": 4294967295,
+      "b": 1
+    },
+    {
+      "id": 34,
+      "op": "xor",
+      "a": 4294967295,
+      "b": 1
+    },
+    {
+      "id": 35,
+      "op": "shl",
+      "a": 4294967295,
+      "b": 1
+    },
+    {
+      "id": 36,
+      "op": "lsr",
+      "a": 4294967295,
+      "b": 1
+    },
+    {
+      "id": 37,
+      "op": "asr",
+      "a": 4294967295,
+      "b": 1
+    },
+    {
+      "id": 38,
+      "op": "ltu",
+      "a": 4294967295,
+      "b": 1
+    },
+    {
+      "id": 39,
+      "op": "lts",
+      "a": 4294967295,
+      "b": 1
+    },
+    {
+      "id": 40,
+      "op": "add",
+      "a": 2147483647,
+      "b": 1
+    },
+    {
+      "id": 41,
+      "op": "sub",
+      "a": 2147483647,
+      "b": 1
+    },
+    {
+      "id": 42,
+      "op": "mul",
+      "a": 2147483647,
+      "b": 1
+    },
+    {
+      "id": 43,
+      "op": "and",
+      "a": 2147483647,
+      "b": 1
+    },
+    {
+      "id": 44,
+      "op": "xor",
+      "a": 2147483647,
+      "b": 1
+    },
+    {
+      "id": 45,
+      "op": "shl",
+      "a": 2147483647,
+      "b": 1
+    },
+    {
+      "id": 46,
+      "op": "lsr",
+      "a": 2147483647,
+      "b": 1
+    },
+    {
+      "id": 47,
+      "op": "asr",
+      "a": 2147483647,
+      "b": 1
+    },
+    {
+      "id": 48,
+      "op": "ltu",
+      "a": 2147483647,
+      "b": 1
+    },
+    {
+      "id": 49,
+      "op": "lts",
+      "a": 2147483647,
+      "b": 1
+    },
+    {
+      "id": 50,
+      "op": "add",
+      "a": 2147483648,
+      "b": 1
+    },
+    {
+      "id": 51,
+      "op": "sub",
+      "a": 2147483648,
+      "b": 1
+    },
+    {
+      "id": 52,
+      "op": "mul",
+      "a": 2147483648,
+      "b": 1
+    },
+    {
+      "id": 53,
+      "op": "and",
+      "a": 2147483648,
+      "b": 1
+    },
+    {
+      "id": 54,
+      "op": "xor",
+      "a": 2147483648,
+      "b": 1
+    },
+    {
+      "id": 55,
+      "op": "shl",
+      "a": 2147483648,
+      "b": 1
+    },
+    {
+      "id": 56,
+      "op": "lsr",
+      "a": 2147483648,
+      "b": 1
+    },
+    {
+      "id": 57,
+      "op": "asr",
+      "a": 2147483648,
+      "b": 1
+    },
+    {
+      "id": 58,
+      "op": "ltu",
+      "a": 2147483648,
+      "b": 1
+    },
+    {
+      "id": 59,
+      "op": "lts",
+      "a": 2147483648,
+      "b": 1
+    },
+    {
+      "id": 60,
+      "op": "add",
+      "a": 4294967295,
+      "b": 4294967295
+    },
+    {
+      "id": 61,
+      "op": "sub",
+      "a": 4294967295,
+      "b": 4294967295
+    },
+    {
+      "id": 62,
+      "op": "mul",
+      "a": 4294967295,
+      "b": 4294967295
+    },
+    {
+      "id": 63,
+      "op": "and",
+      "a": 4294967295,
+      "b": 4294967295
+    },
+    {
+      "id": 64,
+      "op": "xor",
+      "a": 4294967295,
+      "b": 4294967295
+    },
+    {
+      "id": 65,
+      "op": "shl",
+      "a": 4294967295,
+      "b": 4294967295
+    },
+    {
+      "id": 66,
+      "op": "lsr",
+      "a": 4294967295,
+      "b": 4294967295
+    },
+    {
+      "id": 67,
+      "op": "asr",
+      "a": 4294967295,
+      "b": 4294967295
+    },
+    {
+      "id": 68,
+      "op": "ltu",
+      "a": 4294967295,
+      "b": 4294967295
+    },
+    {
+      "id": 69,
+      "op": "lts",
+      "a": 4294967295,
+      "b": 4294967295
+    },
+    {
+      "id": 70,
+      "op": "add",
+      "a": 2147483648,
+      "b": 2147483648
+    },
+    {
+      "id": 71,
+      "op": "sub",
+      "a": 2147483648,
+      "b": 2147483648
+    },
+    {
+      "id": 72,
+      "op": "mul",
+      "a": 2147483648,
+      "b": 2147483648
+    },
+    {
+      "id": 73,
+      "op": "and",
+      "a": 2147483648,
+      "b": 2147483648
+    },
+    {
+      "id": 74,
+      "op": "xor",
+      "a": 2147483648,
+      "b": 2147483648
+    },
+    {
+      "id": 75,
+      "op": "shl",
+      "a": 2147483648,
+      "b": 2147483648
+    },
+    {
+      "id": 76,
+      "op": "lsr",
+      "a": 2147483648,
+      "b": 2147483648
+    },
+    {
+      "id": 77,
+      "op": "asr",
+      "a": 2147483648,
+      "b": 2147483648
+    },
+    {
+      "id": 78,
+      "op": "ltu",
+      "a": 2147483648,
+      "b": 2147483648
+    },
+    {
+      "id": 79,
+      "op": "lts",
+      "a": 2147483648,
+      "b": 2147483648
+    },
+    {
+      "id": 80,
+      "op": "add",
+      "a": 65535,
+      "b": 1
+    },
+    {
+      "id": 81,
+      "op": "sub",
+      "a": 65535,
+      "b": 1
+    },
+    {
+      "id": 82,
+      "op": "mul",
+      "a": 65535,
+      "b": 1
+    },
+    {
+      "id": 83,
+      "op": "and",
+      "a": 65535,
+      "b": 1
+    },
+    {
+      "id": 84,
+      "op": "xor",
+      "a": 65535,
+      "b": 1
+    },
+    {
+      "id": 85,
+      "op": "shl",
+      "a": 65535,
+      "b": 1
+    },
+    {
+      "id": 86,
+      "op": "lsr",
+      "a": 65535,
+      "b": 1
+    },
+    {
+      "id": 87,
+      "op": "asr",
+      "a": 65535,
+      "b": 1
+    },
+    {
+      "id": 88,
+      "op": "ltu",
+      "a": 65535,
+      "b": 1
+    },
+    {
+      "id": 89,
+      "op": "lts",
+      "a": 65535,
+      "b": 1
+    },
+    {
+      "id": 90,
+      "op": "add",
+      "a": 4294967295,
+      "b": 0
+    },
+    {
+      "id": 91,
+      "op": "sub",
+      "a": 4294967295,
+      "b": 0
+    },
+    {
+      "id": 92,
+      "op": "mul",
+      "a": 4294967295,
+      "b": 0
+    },
+    {
+      "id": 93,
+      "op": "and",
+      "a": 4294967295,
+      "b": 0
+    },
+    {
+      "id": 94,
+      "op": "xor",
+      "a": 4294967295,
+      "b": 0
+    },
+    {
+      "id": 95,
+      "op": "shl",
+      "a": 4294967295,
+      "b": 0
+    },
+    {
+      "id": 96,
+      "op": "lsr",
+      "a": 4294967295,
+      "b": 0
+    },
+    {
+      "id": 97,
+      "op": "asr",
+      "a": 4294967295,
+      "b": 0
+    },
+    {
+      "id": 98,
+      "op": "ltu",
+      "a": 4294967295,
+      "b": 0
+    },
+    {
+      "id": 99,
+      "op": "lts",
+      "a": 4294967295,
+      "b": 0
+    },
+    {
+      "id": 100,
+      "op": "add",
+      "a": 0,
+      "b": 4294967295
+    },
+    {
+      "id": 101,
+      "op": "sub",
+      "a": 0,
+      "b": 4294967295
+    },
+    {
+      "id": 102,
+      "op": "mul",
+      "a": 0,
+      "b": 4294967295
+    },
+    {
+      "id": 103,
+      "op": "and",
+      "a": 0,
+      "b": 4294967295
+    },
+    {
+      "id": 104,
+      "op": "xor",
+      "a": 0,
+      "b": 4294967295
+    },
+    {
+      "id": 105,
+      "op": "shl",
+      "a": 0,
+      "b": 4294967295
+    },
+    {
+      "id": 106,
+      "op": "lsr",
+      "a": 0,
+      "b": 4294967295
+    },
+    {
+      "id": 107,
+      "op": "asr",
+      "a": 0,
+      "b": 4294967295
+    },
+    {
+      "id": 108,
+      "op": "ltu",
+      "a": 0,
+      "b": 4294967295
+    },
+    {
+      "id": 109,
+      "op": "lts",
+      "a": 0,
+      "b": 4294967295
+    },
+    {
+      "id": 110,
+      "op": "add",
+      "a": 4294967295,
+      "b": 32
+    },
+    {
+      "id": 111,
+      "op": "sub",
+      "a": 4294967295,
+      "b": 32
+    },
+    {
+      "id": 112,
+      "op": "mul",
+      "a": 4294967295,
+      "b": 32
+    },
+    {
+      "id": 113,
+      "op": "and",
+      "a": 4294967295,
+      "b": 32
+    },
+    {
+      "id": 114,
+      "op": "xor",
+      "a": 4294967295,
+      "b": 32
+    },
+    {
+      "id": 115,
+      "op": "shl",
+      "a": 4294967295,
+      "b": 32
+    },
+    {
+      "id": 116,
+      "op": "lsr",
+      "a": 4294967295,
+      "b": 32
+    },
+    {
+      "id": 117,
+      "op": "asr",
+      "a": 4294967295,
+      "b": 32
+    },
+    {
+      "id": 118,
+      "op": "ltu",
+      "a": 4294967295,
+      "b": 32
+    },
+    {
+      "id": 119,
+      "op": "lts",
+      "a": 4294967295,
+      "b": 32
+    },
+    {
+      "id": 120,
+      "op": "add",
+      "a": 2147483648,
+      "b": 33
+    },
+    {
+      "id": 121,
+      "op": "sub",
+      "a": 2147483648,
+      "b": 33
+    },
+    {
+      "id": 122,
+      "op": "mul",
+      "a": 2147483648,
+      "b": 33
+    },
+    {
+      "id": 123,
+      "op": "and",
+      "a": 2147483648,
+      "b": 33
+    },
+    {
+      "id": 124,
+      "op": "xor",
+      "a": 2147483648,
+      "b": 33
+    },
+    {
+      "id": 125,
+      "op": "shl",
+      "a": 2147483648,
+      "b": 33
+    },
+    {
+      "id": 126,
+      "op": "lsr",
+      "a": 2147483648,
+      "b": 33
+    },
+    {
+      "id": 127,
+      "op": "asr",
+      "a": 2147483648,
+      "b": 33
+    },
+    {
+      "id": 128,
+      "op": "ltu",
+      "a": 2147483648,
+      "b": 33
+    },
+    {
+      "id": 129,
+      "op": "lts",
+      "a": 2147483648,
+      "b": 33
+    },
+    {
+      "id": 130,
+      "op": "add",
+      "a": 4294967295,
+      "b": 31
+    },
+    {
+      "id": 131,
+      "op": "sub",
+      "a": 4294967295,
+      "b": 31
+    },
+    {
+      "id": 132,
+      "op": "mul",
+      "a": 4294967295,
+      "b": 31
+    },
+    {
+      "id": 133,
+      "op": "and",
+      "a": 4294967295,
+      "b": 31
+    },
+    {
+      "id": 134,
+      "op": "xor",
+      "a": 4294967295,
+      "b": 31
+    },
+    {
+      "id": 135,
+      "op": "shl",
+      "a": 4294967295,
+      "b": 31
+    },
+    {
+      "id": 136,
+      "op": "lsr",
+      "a": 4294967295,
+      "b": 31
+    },
+    {
+      "id": 137,
+      "op": "asr",
+      "a": 4294967295,
+      "b": 31
+    },
+    {
+      "id": 138,
+      "op": "ltu",
+      "a": 4294967295,
+      "b": 31
+    },
+    {
+      "id": 139,
+      "op": "lts",
+      "a": 4294967295,
+      "b": 31
+    },
+    {
+      "id": 140,
+      "op": "add",
+      "a": 2,
+      "b": 2
+    },
+    {
+      "id": 141,
+      "op": "sub",
+      "a": 2,
+      "b": 2
+    },
+    {
+      "id": 142,
+      "op": "mul",
+      "a": 2,
+      "b": 2
+    },
+    {
+      "id": 143,
+      "op": "and",
+      "a": 2,
+      "b": 2
+    },
+    {
+      "id": 144,
+      "op": "xor",
+      "a": 2,
+      "b": 2
+    },
+    {
+      "id": 145,
+      "op": "shl",
+      "a": 2,
+      "b": 2
+    },
+    {
+      "id": 146,
+      "op": "lsr",
+      "a": 2,
+      "b": 2
+    },
+    {
+      "id": 147,
+      "op": "asr",
+      "a": 2,
+      "b": 2
+    },
+    {
+      "id": 148,
+      "op": "ltu",
+      "a": 2,
+      "b": 2
+    },
+    {
+      "id": 149,
+      "op": "lts",
+      "a": 2,
+      "b": 2
+    },
+    {
+      "id": 150,
+      "op": "add",
+      "a": 1,
+      "b": 32
+    },
+    {
+      "id": 151,
+      "op": "sub",
+      "a": 1,
+      "b": 32
+    },
+    {
+      "id": 152,
+      "op": "mul",
+      "a": 1,
+      "b": 32
+    },
+    {
+      "id": 153,
+      "op": "and",
+      "a": 1,
+      "b": 32
+    },
+    {
+      "id": 154,
+      "op": "xor",
+      "a": 1,
+      "b": 32
+    },
+    {
+      "id": 155,
+      "op": "shl",
+      "a": 1,
+      "b": 32
+    },
+    {
+      "id": 156,
+      "op": "lsr",
+      "a": 1,
+      "b": 32
+    },
+    {
+      "id": 157,
+      "op": "asr",
+      "a": 1,
+      "b": 32
+    },
+    {
+      "id": 158,
+      "op": "ltu",
+      "a": 1,
+      "b": 32
+    },
+    {
+      "id": 159,
+      "op": "lts",
+      "a": 1,
+      "b": 32
+    },
+    {
+      "id": 160,
+      "op": "add",
+      "a": 4294967295,
+      "b": 33
+    },
+    {
+      "id": 161,
+      "op": "sub",
+      "a": 4294967295,
+      "b": 33
+    },
+    {
+      "id": 162,
+      "op": "mul",
+      "a": 4294967295,
+      "b": 33
+    },
+    {
+      "id": 163,
+      "op": "and",
+      "a": 4294967295,
+      "b": 33
+    },
+    {
+      "id": 164,
+      "op": "xor",
+      "a": 4294967295,
+      "b": 33
+    },
+    {
+      "id": 165,
+      "op": "shl",
+      "a": 4294967295,
+      "b": 33
+    },
+    {
+      "id": 166,
+      "op": "lsr",
+      "a": 4294967295,
+      "b": 33
+    },
+    {
+      "id": 167,
+      "op": "asr",
+      "a": 4294967295,
+      "b": 33
+    },
+    {
+      "id": 168,
+      "op": "ltu",
+      "a": 4294967295,
+      "b": 33
+    },
+    {
+      "id": 169,
+      "op": "lts",
+      "a": 4294967295,
+      "b": 33
+    },
+    {
+      "id": 170,
+      "op": "add",
+      "a": 2147483648,
+      "b": 0
+    },
+    {
+      "id": 171,
+      "op": "sub",
+      "a": 2147483648,
+      "b": 0
+    },
+    {
+      "id": 172,
+      "op": "mul",
+      "a": 2147483648,
+      "b": 0
+    },
+    {
+      "id": 173,
+      "op": "and",
+      "a": 2147483648,
+      "b": 0
+    },
+    {
+      "id": 174,
+      "op": "xor",
+      "a": 2147483648,
+      "b": 0
+    },
+    {
+      "id": 175,
+      "op": "shl",
+      "a": 2147483648,
+      "b": 0
+    },
+    {
+      "id": 176,
+      "op": "lsr",
+      "a": 2147483648,
+      "b": 0
+    },
+    {
+      "id": 177,
+      "op": "asr",
+      "a": 2147483648,
+      "b": 0
+    },
+    {
+      "id": 178,
+      "op": "ltu",
+      "a": 2147483648,
+      "b": 0
+    },
+    {
+      "id": 179,
+      "op": "lts",
+      "a": 2147483648,
+      "b": 0
+    },
+    {
+      "id": 180,
+      "op": "lts",
+      "a": 3,
+      "b": 65535
+    },
+    {
+      "id": 181,
+      "op": "asr",
+      "a": 0,
+      "b": 0
+    },
+    {
+      "id": 182,
+      "op": "ltu",
+      "a": 65535,
+      "b": 65535
+    },
+    {
+      "id": 183,
+      "op": "lsr",
+      "a": 2147483649,
+      "b": 3
+    },
+    {
+      "id": 184,
+      "op": "and",
+      "a": 33,
+      "b": 4294967294
+    },
+    {
+      "id": 185,
+      "op": "shl",
+      "a": 3,
+      "b": 4294967295
+    },
+    {
+      "id": 186,
+      "op": "lts",
+      "a": 4294967295,
+      "b": 4294967294
+    },
+    {
+      "id": 187,
+      "op": "mul",
+      "a": 3,
+      "b": 33
+    },
+    {
+      "id": 188,
+      "op": "sub",
+      "a": 4294967295,
+      "b": 65536
+    },
+    {
+      "id": 189,
+      "op": "and",
+      "a": 4026985993,
+      "b": 2170354914
+    },
+    {
+      "id": 190,
+      "op": "asr",
+      "a": 33,
+      "b": 2
+    },
+    {
+      "id": 191,
+      "op": "shl",
+      "a": 3,
+      "b": 2
+    },
+    {
+      "id": 192,
+      "op": "lts",
+      "a": 2147483648,
+      "b": 65537
+    },
+    {
+      "id": 193,
+      "op": "lts",
+      "a": 65537,
+      "b": 65538
+    },
+    {
+      "id": 194,
+      "op": "lsr",
+      "a": 2147483647,
+      "b": 33
+    },
+    {
+      "id": 195,
+      "op": "shl",
+      "a": 4294967294,
+      "b": 4294967295
+    },
+    {
+      "id": 196,
+      "op": "mul",
+      "a": 32,
+      "b": 2147483649
+    },
+    {
+      "id": 197,
+      "op": "lsr",
+      "a": 2247547126,
+      "b": 1994788795
+    },
+    {
+      "id": 198,
+      "op": "and",
+      "a": 33,
+      "b": 2147483647
+    },
+    {
+      "id": 199,
+      "op": "ltu",
+      "a": 0,
+      "b": 1
+    },
+    {
+      "id": 200,
+      "op": "and",
+      "a": 65537,
+      "b": 31
+    },
+    {
+      "id": 201,
+      "op": "add",
+      "a": 1,
+      "b": 0
+    },
+    {
+      "id": 202,
+      "op": "and",
+      "a": 32,
+      "b": 1
+    },
+    {
+      "id": 203,
+      "op": "lsr",
+      "a": 65537,
+      "b": 4294967295
+    },
+    {
+      "id": 204,
+      "op": "mul",
+      "a": 1266060597,
+      "b": 1638680754
+    },
+    {
+      "id": 205,
+      "op": "sub",
+      "a": 32,
+      "b": 31
+    },
+    {
+      "id": 206,
+      "op": "add",
+      "a": 2147483649,
+      "b": 31
+    },
+    {
+      "id": 207,
+      "op": "xor",
+      "a": 4294967295,
+      "b": 65535
+    },
+    {
+      "id": 208,
+      "op": "and",
+      "a": 32,
+      "b": 33
+    },
+    {
+      "id": 209,
+      "op": "mul",
+      "a": 4294967294,
+      "b": 2147483647
+    },
+    {
+      "id": 210,
+      "op": "lsr",
+      "a": 3,
+      "b": 4294967294
+    },
+    {
+      "id": 211,
+      "op": "asr",
+      "a": 32,
+      "b": 4294967295
+    },
+    {
+      "id": 212,
+      "op": "add",
+      "a": 2147483647,
+      "b": 4294967295
+    },
+    {
+      "id": 213,
+      "op": "add",
+      "a": 2147483649,
+      "b": 1
+    },
+    {
+      "id": 214,
+      "op": "asr",
+      "a": 1,
+      "b": 31
+    },
+    {
+      "id": 215,
+      "op": "lts",
+      "a": 33,
+      "b": 2147483648
+    },
+    {
+      "id": 216,
+      "op": "xor",
+      "a": 4294967294,
+      "b": 65536
+    },
+    {
+      "id": 217,
+      "op": "shl",
+      "a": 65536,
+      "b": 33
+    },
+    {
+      "id": 218,
+      "op": "add",
+      "a": 1782893286,
+      "b": 216997638
+    },
+    {
+      "id": 219,
+      "op": "lsr",
+      "a": 65536,
+      "b": 2
+    },
+    {
+      "id": 220,
+      "op": "and",
+      "a": 2041033795,
+      "b": 2153737986
+    },
+    {
+      "id": 221,
+      "op": "add",
+      "a": 2195210203,
+      "b": 3047275802
+    },
+    {
+      "id": 222,
+      "op": "add",
+      "a": 32,
+      "b": 32
+    },
+    {
+      "id": 223,
+      "op": "add",
+      "a": 4294967294,
+      "b": 65536
+    },
+    {
+      "id": 224,
+      "op": "sub",
+      "a": 3,
+      "b": 33
+    },
+    {
+      "id": 225,
+      "op": "sub",
+      "a": 2147483647,
+      "b": 65535
+    },
+    {
+      "id": 226,
+      "op": "sub",
+      "a": 2,
+      "b": 2
+    },
+    {
+      "id": 227,
+      "op": "asr",
+      "a": 65536,
+      "b": 33
+    },
+    {
+      "id": 228,
+      "op": "lts",
+      "a": 2147483649,
+      "b": 32
+    },
+    {
+      "id": 229,
+      "op": "lsr",
+      "a": 4294967295,
+      "b": 4294967294
+    },
+    {
+      "id": 230,
+      "op": "ltu",
+      "a": 2147483647,
+      "b": 2147483646
+    },
+    {
+      "id": 231,
+      "op": "lsr",
+      "a": 4294967294,
+      "b": 2
+    },
+    {
+      "id": 232,
+      "op": "xor",
+      "a": 33,
+      "b": 4294967294
+    },
+    {
+      "id": 233,
+      "op": "shl",
+      "a": 2147483647,
+      "b": 2147483647
+    },
+    {
+      "id": 234,
+      "op": "add",
+      "a": 1,
+      "b": 2
+    },
+    {
+      "id": 235,
+      "op": "shl",
+      "a": 4294967294,
+      "b": 2
+    },
+    {
+      "id": 236,
+      "op": "mul",
+      "a": 2147483648,
+      "b": 2
+    },
+    {
+      "id": 237,
+      "op": "asr",
+      "a": 32,
+      "b": 1
+    },
+    {
+      "id": 238,
+      "op": "sub",
+      "a": 3,
+      "b": 0
+    },
+    {
+      "id": 239,
+      "op": "ltu",
+      "a": 2147483648,
+      "b": 2147483648
+    },
+    {
+      "id": 240,
+      "op": "mul",
+      "a": 2,
+      "b": 4294967294
+    },
+    {
+      "id": 241,
+      "op": "lts",
+      "a": 32,
+      "b": 31
+    },
+    {
+      "id": 242,
+      "op": "shl",
+      "a": 65537,
+      "b": 65535
+    },
+    {
+      "id": 243,
+      "op": "ltu",
+      "a": 1,
+      "b": 32
+    },
+    {
+      "id": 244,
+      "op": "sub",
+      "a": 3326096814,
+      "b": 571352444
+    },
+    {
+      "id": 245,
+      "op": "lts",
+      "a": 32,
+      "b": 4294967294
+    },
+    {
+      "id": 246,
+      "op": "asr",
+      "a": 2147483649,
+      "b": 31
+    },
+    {
+      "id": 247,
+      "op": "add",
+      "a": 2329723036,
+      "b": 2199696833
+    },
+    {
+      "id": 248,
+      "op": "xor",
+      "a": 34852299,
+      "b": 2747122446
+    },
+    {
+      "id": 249,
+      "op": "mul",
+      "a": 33,
+      "b": 4294967295
+    },
+    {
+      "id": 250,
+      "op": "lsr",
+      "a": 2147483648,
+      "b": 33
+    },
+    {
+      "id": 251,
+      "op": "sub",
+      "a": 1114494960,
+      "b": 3047834267
+    },
+    {
+      "id": 252,
+      "op": "shl",
+      "a": 65536,
+      "b": 65535
+    },
+    {
+      "id": 253,
+      "op": "mul",
+      "a": 2,
+      "b": 3
+    },
+    {
+      "id": 254,
+      "op": "asr",
+      "a": 2147483647,
+      "b": 65537
+    },
+    {
+      "id": 255,
+      "op": "ltu",
+      "a": 2147483649,
+      "b": 31
+    },
+    {
+      "id": 256,
+      "op": "add",
+      "a": 2147483648,
+      "b": 1
+    },
+    {
+      "id": 257,
+      "op": "mul",
+      "a": 2147483649,
+      "b": 2
+    },
+    {
+      "id": 258,
+      "op": "add",
+      "a": 3044814971,
+      "b": 228272969
+    },
+    {
+      "id": 259,
+      "op": "shl",
+      "a": 65535,
+      "b": 2147483649
+    },
+    {
+      "id": 260,
+      "op": "lsr",
+      "a": 4294967294,
+      "b": 32
+    },
+    {
+      "id": 261,
+      "op": "and",
+      "a": 2,
+      "b": 2147483647
+    },
+    {
+      "id": 262,
+      "op": "add",
+      "a": 32,
+      "b": 2
+    },
+    {
+      "id": 263,
+      "op": "sub",
+      "a": 3,
+      "b": 3
+    },
+    {
+      "id": 264,
+      "op": "lts",
+      "a": 3,
+      "b": 3
+    },
+    {
+      "id": 265,
+      "op": "sub",
+      "a": 31,
+      "b": 65535
+    },
+    {
+      "id": 266,
+      "op": "mul",
+      "a": 4294967294,
+      "b": 33
+    },
+    {
+      "id": 267,
+      "op": "and",
+      "a": 2147483649,
+      "b": 1
+    },
+    {
+      "id": 268,
+      "op": "mul",
+      "a": 3,
+      "b": 2147483648
+    },
+    {
+      "id": 269,
+      "op": "shl",
+      "a": 65535,
+      "b": 3
+    },
+    {
+      "id": 270,
+      "op": "add",
+      "a": 4294967294,
+      "b": 4294967295
+    },
+    {
+      "id": 271,
+      "op": "sub",
+      "a": 1738314738,
+      "b": 3863442630
+    },
+    {
+      "id": 272,
+      "op": "lts",
+      "a": 1835284944,
+      "b": 4227895660
+    },
+    {
+      "id": 273,
+      "op": "mul",
+      "a": 1941474369,
+      "b": 1222179734
+    },
+    {
+      "id": 274,
+      "op": "ltu",
+      "a": 1,
+      "b": 2147483648
+    },
+    {
+      "id": 275,
+      "op": "and",
+      "a": 1,
+      "b": 4294967294
+    },
+    {
+      "id": 276,
+      "op": "xor",
+      "a": 33,
+      "b": 32
+    },
+    {
+      "id": 277,
+      "op": "xor",
+      "a": 33,
+      "b": 65535
+    },
+    {
+      "id": 278,
+      "op": "lsr",
+      "a": 65536,
+      "b": 4294967294
+    },
+    {
+      "id": 279,
+      "op": "lsr",
+      "a": 2,
+      "b": 4294967294
+    },
+    {
+      "id": 280,
+      "op": "shl",
+      "a": 3,
+      "b": 4294967294
+    },
+    {
+      "id": 281,
+      "op": "lts",
+      "a": 2147483647,
+      "b": 32
+    },
+    {
+      "id": 282,
+      "op": "asr",
+      "a": 65535,
+      "b": 33
+    },
+    {
+      "id": 283,
+      "op": "mul",
+      "a": 2147483648,
+      "b": 32
+    },
+    {
+      "id": 284,
+      "op": "mul",
+      "a": 2147483649,
+      "b": 4294967294
+    },
+    {
+      "id": 285,
+      "op": "and",
+      "a": 2147483647,
+      "b": 31
+    },
+    {
+      "id": 286,
+      "op": "sub",
+      "a": 33,
+      "b": 32
+    },
+    {
+      "id": 287,
+      "op": "shl",
+      "a": 2,
+      "b": 31
+    },
+    {
+      "id": 288,
+      "op": "shl",
+      "a": 65535,
+      "b": 31
+    },
+    {
+      "id": 289,
+      "op": "asr",
+      "a": 65537,
+      "b": 2
+    },
+    {
+      "id": 290,
+      "op": "and",
+      "a": 33,
+      "b": 31
+    },
+    {
+      "id": 291,
+      "op": "lsr",
+      "a": 4294967294,
+      "b": 65535
+    },
+    {
+      "id": 292,
+      "op": "ltu",
+      "a": 2,
+      "b": 1
+    },
+    {
+      "id": 293,
+      "op": "mul",
+      "a": 3255543776,
+      "b": 39394435
+    },
+    {
+      "id": 294,
+      "op": "asr",
+      "a": 48131571,
+      "b": 2510637774
+    },
+    {
+      "id": 295,
+      "op": "lts",
+      "a": 65536,
+      "b": 31
+    },
+    {
+      "id": 296,
+      "op": "and",
+      "a": 4294967294,
+      "b": 2
+    },
+    {
+      "id": 297,
+      "op": "mul",
+      "a": 2147483648,
+      "b": 65536
+    },
+    {
+      "id": 298,
+      "op": "and",
+      "a": 1,
+      "b": 2147483647
+    },
+    {
+      "id": 299,
+      "op": "add",
+      "a": 1153061668,
+      "b": 29724524
+    }
+  ],
+  "mutants": [
+    {
+      "id": "add.no_wrap",
+      "op": "add",
+      "description": "Omit output truncation"
+    },
+    {
+      "id": "add.half_output",
+      "op": "add",
+      "description": "Truncate output to half width"
+    },
+    {
+      "id": "add.no_limb_carry",
+      "op": "add",
+      "description": "Omit carry between half-width limbs"
+    },
+    {
+      "id": "add.xor",
+      "op": "add",
+      "description": "Replace addition by XOR"
+    },
+    {
+      "id": "add.rhs_low",
+      "op": "add",
+      "description": "Drop high half of second operand"
+    },
+    {
+      "id": "add.zero_lhs",
+      "op": "add",
+      "description": "Wrong result in zero-lhs shortcut"
+    },
+    {
+      "id": "add.zero_rhs",
+      "op": "add",
+      "description": "Wrong result in zero-rhs shortcut"
+    },
+    {
+      "id": "add.saturate",
+      "op": "add",
+      "description": "Use signed saturation instead of wrapping"
+    },
+    {
+      "id": "sub.no_wrap",
+      "op": "sub",
+      "description": "Omit output truncation"
+    },
+    {
+      "id": "sub.swap",
+      "op": "sub",
+      "description": "Swap operands"
+    },
+    {
+      "id": "sub.add",
+      "op": "sub",
+      "description": "Replace subtraction by addition"
+    },
+    {
+      "id": "sub.no_borrow",
+      "op": "sub",
+      "description": "Omit borrow between half-width limbs"
+    },
+    {
+      "id": "sub.zero_rhs",
+      "op": "sub",
+      "description": "Wrong result in zero-rhs shortcut"
+    },
+    {
+      "id": "sub.equal",
+      "op": "sub",
+      "description": "Wrong result for equal operands"
+    },
+    {
+      "id": "sub.saturate",
+      "op": "sub",
+      "description": "Use unsigned saturation"
+    },
+    {
+      "id": "mul.no_wrap",
+      "op": "mul",
+      "description": "Omit output truncation"
+    },
+    {
+      "id": "mul.add",
+      "op": "mul",
+      "description": "Replace multiplication by addition"
+    },
+    {
+      "id": "mul.lhs_low",
+      "op": "mul",
+      "description": "Drop high half of first operand"
+    },
+    {
+      "id": "mul.high_half",
+      "op": "mul",
+      "description": "Return high instead of low product"
+    },
+    {
+      "id": "mul.zero",
+      "op": "mul",
+      "description": "Wrong zero-product shortcut"
+    },
+    {
+      "id": "mul.one",
+      "op": "mul",
+      "description": "Wrong multiplicative-identity shortcut"
+    },
+    {
+      "id": "mul.saturate",
+      "op": "mul",
+      "description": "Use unsigned saturation"
+    },
+    {
+      "id": "and.or",
+      "op": "and",
+      "description": "Replace AND by OR"
+    },
+    {
+      "id": "and.xor",
+      "op": "and",
+      "description": "Replace AND by XOR"
+    },
+    {
+      "id": "and.invert_lhs",
+      "op": "and",
+      "description": "Invert first operand"
+    },
+    {
+      "id": "and.half_output",
+      "op": "and",
+      "description": "Drop upper output bits"
+    },
+    {
+      "id": "and.lhs",
+      "op": "and",
+      "description": "Ignore second operand"
+    },
+    {
+      "id": "and.zero_rhs",
+      "op": "and",
+      "description": "Wrong zero-rhs shortcut"
+    },
+    {
+      "id": "xor.or",
+      "op": "xor",
+      "description": "Replace XOR by OR"
+    },
+    {
+      "id": "xor.and",
+      "op": "xor",
+      "description": "Replace XOR by AND"
+    },
+    {
+      "id": "xor.invert",
+      "op": "xor",
+      "description": "Invert result"
+    },
+    {
+      "id": "xor.half_output",
+      "op": "xor",
+      "description": "Drop upper output bits"
+    },
+    {
+      "id": "xor.lhs",
+      "op": "xor",
+      "description": "Ignore second operand"
+    },
+    {
+      "id": "xor.equal",
+      "op": "xor",
+      "description": "Wrong equal-input shortcut"
+    },
+    {
+      "id": "shl.half_count",
+      "op": "shl",
+      "description": "Use an undersized shift-count mask"
+    },
+    {
+      "id": "shl.off_by_one",
+      "op": "shl",
+      "description": "Increment masked shift count"
+    },
+    {
+      "id": "shl.zero_count",
+      "op": "shl",
+      "description": "Wrong zero-shift shortcut"
+    },
+    {
+      "id": "shl.large_count",
+      "op": "shl",
+      "description": "Return zero rather than mask large count"
+    },
+    {
+      "id": "lsr.half_count",
+      "op": "lsr",
+      "description": "Use an undersized shift-count mask"
+    },
+    {
+      "id": "lsr.off_by_one",
+      "op": "lsr",
+      "description": "Increment masked shift count"
+    },
+    {
+      "id": "lsr.zero_count",
+      "op": "lsr",
+      "description": "Wrong zero-shift shortcut"
+    },
+    {
+      "id": "lsr.large_count",
+      "op": "lsr",
+      "description": "Return zero rather than mask large count"
+    },
+    {
+      "id": "asr.half_count",
+      "op": "asr",
+      "description": "Use an undersized shift-count mask"
+    },
+    {
+      "id": "asr.off_by_one",
+      "op": "asr",
+      "description": "Increment masked shift count"
+    },
+    {
+      "id": "asr.zero_count",
+      "op": "asr",
+      "description": "Wrong zero-shift shortcut"
+    },
+    {
+      "id": "asr.large_count",
+      "op": "asr",
+      "description": "Return zero rather than mask large count"
+    },
+    {
+      "id": "shl.no_wrap",
+      "op": "shl",
+      "description": "Omit left-shift truncation"
+    },
+    {
+      "id": "shl.direction",
+      "op": "shl",
+      "description": "Shift right instead of left"
+    },
+    {
+      "id": "lsr.signed",
+      "op": "lsr",
+      "description": "Arithmetic instead of logical right shift"
+    },
+    {
+      "id": "lsr.direction",
+      "op": "lsr",
+      "description": "Shift left instead of right"
+    },
+    {
+      "id": "asr.unsigned",
+      "op": "asr",
+      "description": "Logical instead of arithmetic right shift"
+    },
+    {
+      "id": "asr.direction",
+      "op": "asr",
+      "description": "Shift left instead of right"
+    },
+    {
+      "id": "asr.wrong_sign",
+      "op": "asr",
+      "description": "Subtract wrong sign-conversion offset"
+    },
+    {
+      "id": "ltu.signed",
+      "op": "ltu",
+      "description": "Compare signed operands"
+    },
+    {
+      "id": "ltu.inclusive",
+      "op": "ltu",
+      "description": "Use less-than-or-equal"
+    },
+    {
+      "id": "ltu.reverse",
+      "op": "ltu",
+      "description": "Reverse comparison"
+    },
+    {
+      "id": "ltu.half",
+      "op": "ltu",
+      "description": "Compare only low halves"
+    },
+    {
+      "id": "ltu.false",
+      "op": "ltu",
+      "description": "Always return false"
+    },
+    {
+      "id": "ltu.zero_lhs",
+      "op": "ltu",
+      "description": "Wrong zero-lhs shortcut"
+    },
+    {
+      "id": "lts.unsigned",
+      "op": "lts",
+      "description": "Compare unsigned operands"
+    },
+    {
+      "id": "lts.inclusive",
+      "op": "lts",
+      "description": "Use less-than-or-equal"
+    },
+    {
+      "id": "lts.reverse",
+      "op": "lts",
+      "description": "Reverse comparison"
+    },
+    {
+      "id": "lts.half",
+      "op": "lts",
+      "description": "Compare signed low halves"
+    },
+    {
+      "id": "lts.false",
+      "op": "lts",
+      "description": "Always return false"
+    },
+    {
+      "id": "lts.zero_rhs",
+      "op": "lts",
+      "description": "Wrong zero-rhs shortcut"
+    }
+  ]
+}

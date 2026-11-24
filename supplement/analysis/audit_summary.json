@@ -1,0 +1,88 @@
+{
+  "status": "passed",
+  "fair_postprocessing_checks": 110,
+  "excluded_variant_checks": 120,
+  "paired_30_vs_65_variant_instances": 30,
+  "lp_primal_dual_checks": 110,
+  "max_primal_violation": 4.1744385725905886e-14,
+  "max_dual_violation": 4.529709940470639e-14,
+  "max_absolute_duality_gap": 7.37188088351104e-14,
+  "max_objective_difference": 3.552713678800501e-14,
+  "triangle_rational_witness_value": "3/2",
+  "triangle_expected_repaired_size": 2.0,
+  "fair_baseline_summary": {
+    "arithmetic": {
+      "instances": 60,
+      "size": {
+        "median": 22.0,
+        "min": 15.0,
+        "max": 31.0
+      },
+      "proved_references": 60,
+      "optimal_matches": 4,
+      "gap": {
+        "median": 12.5,
+        "min": 0.0,
+        "max": 33.33333333333333
+      }
+    },
+    "width_sensitivity": {
+      "instances": 10,
+      "size": {
+        "median": 27.0,
+        "min": 26.0,
+        "max": 30.0
+      },
+      "proved_references": 10,
+      "optimal_matches": 0,
+      "gap": {
+        "median": 12.771739130434778,
+        "min": 12.5,
+        "max": 26.086956521739136
+      }
+    },
+    "synthetic": {
+      "instances": 40,
+      "size": {
+        "median": 15.5,
+        "min": 8.0,
+        "max": 30.0
+      },
+      "proved_references": 34,
+      "optimal_matches": 0,
+      "gap": {
+        "median": 75.0,
+        "min": 44.44444444444444,
+        "max": 160.0
+      }
+    }
+  },
+  "unconstrained_variant_summary": {
+    "greedy": {
+      "median": 40.0,
+      "min": 34.285714285714285,
+      "max": 54.285714285714285,
+      "below_full_retention": 30
+    },
+    "lp_round": {
+      "median": 42.857142857142854,
+      "min": 34.285714285714285,
+      "max": 54.285714285714285,
+      "below_full_retention": 30
+    },
+    "milp": {
+      "median": 42.857142857142854,
+      "min": 34.285714285714285,
+      "max": 54.285714285714285,
+      "below_full_retention": 30
+    },
+    "random_pruned": {
+      "median": 45.714285714285715,
+      "min": 37.142857142857146,
+      "max": 60.0,
+      "below_full_retention": 30
+    }
+  },
+  "primary_files_modified": false,
+  "scope": "Retrospective controls on frozen generated instances; excluded variants are correlated members of the same synthetic catalog."
+}

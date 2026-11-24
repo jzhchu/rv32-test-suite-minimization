@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "seeds": [11, 23, 37, 51, 71],
+  "arithmetic": {
+    "width": 32,
+    "candidate_sizes": [300, 1200, 4800],
+    "boundary_ratios": [0.2, 0.8],
+    "mutant_counts": [30, "all"]
+  },
+  "width_sensitivity": {"widths": [8, 16], "n": 1200, "boundary_ratio": 0.5},
+  "synthetic_stress": {
+    "rows": [40, 80], "columns": [160, 640], "densities": [0.05, 0.15]
+  },
+  "timing_repetitions": 3,
+  "rounding_trials": 16,
+  "milp_time_limit_seconds": 5.0,
+  "notes": "Primary: executed arithmetic models. Secondary: explicitly synthetic Bernoulli incidence matrices. Synthetic rows without a witness receive one random feasible column. No production code or unpublished research inputs."
+}

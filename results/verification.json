@@ -1,0 +1,25 @@
+{
+  "source_hashes": 4,
+  "matrix_hashes": 110,
+  "arithmetic_matrices_rebuilt": 70,
+  "selected_suites_checked": 1320,
+  "optimal_bounds_checked": 312,
+  "raw_rows_checked": 1320,
+  "coverage_failures": 0,
+  "result_count_consistent": true,
+  "matrix_goal_counts": {
+    "arithmetic": {
+      "30": 30,
+      "65": 30
+    },
+    "width_sensitivity": {
+      "65": 10
+    },
+    "synthetic": {
+      "40": 20,
+      "80": 20
+    }
+  },
+  "status": "passed",
+  "note": "Reconstructed executed matrices and checked observed detection coverage; solver optimality relies on HiGHS status and matching primal/dual objective bounds."
+}

@@ -1,0 +1,25 @@
+{
+  "calls": 280,
+  "fixed_matrices": 7,
+  "rounding_seeds": [
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110
+  ],
+  "budgets": [
+    1,
+    4,
+    16,
+    64
+  ],
+  "coverage_checks": 280,
+  "elapsed_seconds": 3.3052605419998144,
+  "note": "Budget 1 evaluates the deterministic near-one LP seed + repair. Seeds vary only randomized trials; these are not new data instances."
+}

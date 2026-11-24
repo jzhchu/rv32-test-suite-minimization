@@ -1,0 +1,79 @@
+{
+  "start_utc": "2026-11-24T10:27:41.280694+00:00",
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "numpy": "2.3.5",
+  "scipy": "1.18.1",
+  "platform": "macOS-27.0.1-arm64-arm-64bit",
+  "machine": "arm64",
+  "logical_cpus": 10,
+  "config": {
+    "schema_version": 1,
+    "seeds": [
+      11,
+      23,
+      37,
+      51,
+      71
+    ],
+    "arithmetic": {
+      "width": 32,
+      "candidate_sizes": [
+        300,
+        1200,
+        4800
+      ],
+      "boundary_ratios": [
+        0.2,
+        0.8
+      ],
+      "mutant_counts": [
+        30,
+        "all"
+      ]
+    },
+    "width_sensitivity": {
+      "widths": [
+        8,
+        16
+      ],
+      "n": 1200,
+      "boundary_ratio": 0.5
+    },
+    "synthetic_stress": {
+      "rows": [
+        40,
+        80
+      ],
+      "columns": [
+        160,
+        640
+      ],
+      "densities": [
+        0.05,
+        0.15
+      ]
+    },
+    "timing_repetitions": 3,
+    "rounding_trials": 16,
+    "milp_time_limit_seconds": 5.0,
+    "notes": "Primary: executed arithmetic models. Secondary: explicitly synthetic Bernoulli incidence matrices. Synthetic rows without a witness receive one random feasible column. No production code or unpublished research inputs."
+  },
+  "config_sha256": "cc1898bee480b52ca0353e5b1ec625bf8c3f4148c5cf9da1b66997f9cb8ba589",
+  "source_sha256": {
+    "atm/__init__.py": "8f963d1235e6d419c2c4f865b5903d8e81eb43494f766188cd155cba597bc881",
+    "atm/benchmark.py": "eba7101c797b9f1e71504e5ba2b4a3c91e6729d2a6aefb477d8e9f6ed3438e3a",
+    "atm/experiment.py": "283772745babf42cb69661e6aae86ce9ead83138c70fca61360537315d973f6c",
+    "atm/solvers.py": "4048d23b0cb2b808529c3e10a432d4dd5ab79adf923c2e8779360afc38bdf433"
+  },
+  "quick": false,
+  "independent_data_seeds": 5,
+  "timing_policy": "single-thread BLAS/HiGHS requested via environment; 3 timing reps in rotated order, fixed algorithm seed across reps; warmup excluded",
+  "random_policy": "random permutation of the same compressed candidates, no pruning; baseline only",
+  "finish_utc": "2026-11-24T10:30:39.553162+00:00",
+  "elapsed_seconds": 178.26327345800019,
+  "instances": 110,
+  "algorithm_runs": 1320,
+  "coverage_checks_passed": 1320,
+  "milp_optimal_runs": 312,
+  "undetected_rows_total": 0
+}

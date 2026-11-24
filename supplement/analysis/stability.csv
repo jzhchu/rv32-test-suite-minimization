@@ -1,0 +1,10 @@
+family,algorithm,median_relative_timing_range,fractional_lp_cases,median_lp_integrality_gap,median_full_break_even,median_cached_break_even
+arithmetic,greedy,0.06642048942178111,13,1.0,33.0,6.5
+arithmetic,lp_round,0.20916488264428482,13,1.0,39.0,11.0
+arithmetic,milp,0.14308310414274733,13,1.0,35.0,9.0
+width_sensitivity,greedy,0.05884428271739951,2,1.0,47.0,10.0
+width_sensitivity,lp_round,0.1488661415443558,2,1.0,57.0,20.0
+width_sensitivity,milp,0.10569545448390963,2,1.0,56.0,14.5
+synthetic,greedy,0.15257404704628452,40,1.1897593059889393,,
+synthetic,lp_round,0.037667270659093116,40,1.1897593059889393,,
+synthetic,milp,0.0046662807906078805,40,1.1897593059889393,,
